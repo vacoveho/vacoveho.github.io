@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vacoveho.github.io/sitemap/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/eDX/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/EGT/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/vLo/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/qOl/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/Fqr/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/UMd/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/eBv/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/cui/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/OLC/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/TFc/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/Bkd/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/vQA/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/PZI/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/aKS/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/MIj/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/giO/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/BRc/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/Vkn/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/tYc/sitemap_index.vacoveho
+Sitemap: https://vacoveho.github.io/qwC/sitemap_index.vacoveho
